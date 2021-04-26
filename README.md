@@ -3,10 +3,10 @@
 * [download and install python](https://www.python.org/)
 * [download and install git](https://git-scm.com/downloads)
 
-* clone the repo buy running:
-git clone 
+* clone the repo:
+$ git clone https://github.com/clefcodex/zuri_blog.git
 
-* cd into online-result-checker
+* cd zuri_blog
 
 * create and activate virtual environment
 
@@ -14,6 +14,6 @@ git clone
 
 * run python manage.py runserver
 
-* http://localhost:8000/ 
+* navigate to on your browser http://localhost:8000/ 
 
-[online](https://myzuriblog.herokuapp.com/)
+* online version -- https://myzuriblog.herokuapp.com/
