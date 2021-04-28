@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-&enp3qj+bjbm!6mt)k$q2e!1_x0#zt5^+0ybjt36hv@$+9mv!%
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['myzuriblog.herokuapp.com', '127.0.0.1']
 
